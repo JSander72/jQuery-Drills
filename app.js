@@ -30,6 +30,7 @@ $(document).ready(function () { //readied the document
           $("#btnSubmit").prop("disabled", false);
       }
   });
+});
 
   //$("h2").hover(function(){//created a mouseover function defining changes to the heading
   //$("h2").css({
